@@ -4,6 +4,9 @@ Overview
 The Charity Management System is a web application designed to connect benefactors (donors) with charities and individuals in need. This platform allows benefactors to register, view available causes, and make donations. Charities and individuals in need can register, list their needs, and receive help from registered benefactors.
 
 The backend of the project is built using Django, while the frontend is developed using React. The application is designed to be scalable, secure, and user-friendly.
+
+#Tip : I made this project to practice and measure backend skills, and I have not uploaded the frontend of the project because it is incomplete.
+
 ## Table of Contnets
 
 - <a href="### Features">Features</a>
