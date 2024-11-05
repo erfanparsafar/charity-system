@@ -5,7 +5,7 @@ The Charity Management System is a web application designed to connect benefacto
 
 The backend of the project is built using Django, while the frontend is developed using React. The application is designed to be scalable, secure, and user-friendly.
 
-#Tip : I made this project to practice and measure backend skills, and I have not uploaded the frontend of the project because it is incomplete.
+# Tip : I made this project to practice and measure backend skills, and I have not uploaded the frontend of the project because it is incomplete.
 
 ## Table of Contnets
 
